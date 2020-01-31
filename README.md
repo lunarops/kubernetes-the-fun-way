@@ -1,3 +1,5 @@
+![LO_Horizontal_Full Colour](https://user-images.githubusercontent.com/93077/73411035-fab53880-42d1-11ea-9542-e9b2af89f086.png)
+
 # Kubernetes the fun way
 
 ![Hardware](assets/raspberry-pi-cluster.JPG)
